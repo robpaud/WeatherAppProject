@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homeFragment">home fragment</string>
+    <string name="mapFragment">map fragment</string>
+    <string name="addFragment">add fragment</string>
+</resources>

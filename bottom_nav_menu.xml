@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home" >
+    </item>
+
+    <item
+        android:id="@+id/ic_map"
+        android:title="Map"
+        android:icon="@drawable/ic_map">
+    </item>
+    <item
+        android:id="@+id/ic_location"
+        android:title="Add City"
+        android:icon="@drawable/ic_location">
+    </item>
+
+</menu>

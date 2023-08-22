@@ -1,2 +1,2 @@
 # WeatherAppProject
-Created By Rob and EJ
+Created By Rob and EJ. Project made in Kotlin
